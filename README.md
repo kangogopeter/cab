@@ -1,7 +1,9 @@
 # cab
 
 ## Author
-- {peterkangogo} (https://github.com/kangogopeter/cab.git) 
+- {peterkangogo} 
+
+- (https://github.com/kangogopeter/cab.git) 
 
 ## Project setup instructions
 To  use the project use the following ubuntu commands in git :
@@ -9,7 +11,7 @@ To  use the project use the following ubuntu commands in git :
 - git clone (https://github.com/kangogopeter/cab.git) 
 - cab
 - code.
-- branch gh-pages but merged to master
+- branch master
 
 ## License information
 : License
